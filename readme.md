@@ -9,3 +9,8 @@
 ## Regression
 
   * Regression is supervised machine learning algorithm, which deals with training set of data containing observation and their associated continuous outputs.
+
+## ToDo:
+
+* Feature Engineering
+* EDA
