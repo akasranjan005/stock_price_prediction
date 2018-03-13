@@ -14,3 +14,5 @@
 
 * Feature Engineering
 * EDA
+* Visualisations
+* Add references
