@@ -16,3 +16,5 @@
 * EDA
 * Visualisations
 * Add references
+* ESG Investing
+* VWAP Trading
