@@ -18,3 +18,8 @@
 * Add references
 * ESG Investing
 * VWAP Trading
+
+## Library:
+
+* ARIMA
+* LSTM
